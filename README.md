@@ -46,3 +46,11 @@ I saw <i>Chelydra serpentina</i> in <b>Centennial Park</b>.
 <i>now</i>I<i>know</i><b>my</b><i>ABC</i>next<i>time</i><b>sing</b>it<i>with</i>me
 
 To read the full challenge: https://www.beecrowd.com.br/judge/en/problems/view/1239
+
+
+There are two .php files in repository
+
+The Bloggo-Shortcuts-challenge-local file is to be used on the local machine to test the challenge.
+
+The Bloggo-Shortcuts-challenge file is to be used directly on beecrowd.com.br.
+
