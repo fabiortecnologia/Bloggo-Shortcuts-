@@ -44,3 +44,5 @@ Move it from <b>Accounts Payable</b> to <b>Receiving</b>.
 I saw <i>Chelydra serpentina</i> in <b>Centennial Park</b>.
 <i> </i> <i></i> <i> yabba dabba </i> <b> dooooo </b> <b></b><b></b>
 <i>now</i>I<i>know</i><b>my</b><i>ABC</i>next<i>time</i><b>sing</b>it<i>with</i>me
+
+To read the full challenge: https://www.beecrowd.com.br/judge/en/problems/view/1239
